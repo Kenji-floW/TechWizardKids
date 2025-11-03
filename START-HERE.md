@@ -62,7 +62,7 @@ All files in `/outputs/` folder:
 
 Copy-paste this with all 3 photos:
 
-"🧙‍♂️ **NEW: Tech Wizards Kids**
+"🧙‍♂️ **NEW: Tech Wizard Kids**
 
 Your child will build THIS [gaming setup photo] in our 12-week course!
 
@@ -126,7 +126,7 @@ Taught by **Kai Ness**:
 
 ## 📞 YOUR CONTACT INFO
 
-**Business:** Tech Wizards Kids  
+**Business:** Tech Wizard Kids  
 **Owner:** Kai Ness  
 **Email:** info@techwizardkids.cz  
 **Phone:** +420 721 734 363  

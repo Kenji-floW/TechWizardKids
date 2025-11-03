@@ -1,4 +1,4 @@
-# Tech Wizards Kids - DEPLOYMENT PACKAGE
+# Tech Wizard Kids - DEPLOYMENT PACKAGE
 
 ## 🚀 QUICK START
 
@@ -103,7 +103,7 @@ MX    @          [Email provider MX]
 ## 📱 FIRST MARKETING POSTS
 
 **Facebook (Day 1):**
-"🧙‍♂️ NEW: Tech Wizards Kids launching in Horni Pocernice!
+"🧙‍♂️ NEW: Tech Wizard Kids launching in Horni Pocernice!
 
 Build gaming PCs, learn networking from DoD/NATO certified instructor with 15+ years experience.
 
@@ -163,7 +163,7 @@ info@techwizardkids.cz
 - Data Protection: uoou.cz
 
 **Your Info:**
-- Business: Tech Wizards Kids
+- Business: Tech Wizard Kids
 - Owner: Kai Ness
 - Email: info@techwizardkids.cz
 - Phone: +420 721 734 363
